@@ -1,0 +1,45 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="hclip"><rect width="860" height="200" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#hclip)">
+    <rect width="860" height="200" fill="#FFD6E8"/>
+    <rect width="860" height="200" fill="#FDE8F5" opacity="0.6"/>
+
+    <circle cx="780" cy="30" r="90" fill="#FFB3D1" opacity="0.45"/>
+    <circle cx="820" cy="160" r="55" fill="#C9B3FF" opacity="0.35"/>
+    <circle cx="660" cy="10" r="45" fill="#C9B3FF" opacity="0.28"/>
+    <circle cx="60" cy="180" r="70" fill="#C9B3FF" opacity="0.38"/>
+    <circle cx="20" cy="40" r="45" fill="#E0D4FF" opacity="0.30"/>
+    <circle cx="140" cy="15" r="30" fill="#FFB3D1" opacity="0.25"/>
+    <circle cx="430" cy="190" r="55" fill="#F9D0E8" opacity="0.38"/>
+    <circle cx="300" cy="12" r="22" fill="#C9B3FF" opacity="0.25"/>
+    <circle cx="560" cy="6" r="18" fill="#FFB3D1" opacity="0.28"/>
+
+    <circle cx="130" cy="55" r="8" fill="#FF85B3" opacity="0.70"/>
+    <circle cx="700" cy="42" r="6" fill="#C9B3FF" opacity="0.80"/>
+    <circle cx="350" cy="178" r="5" fill="#FF85B3" opacity="0.60"/>
+    <circle cx="560" cy="22" r="7" fill="#FFB3D1" opacity="0.70"/>
+    <circle cx="90" cy="122" r="5" fill="#C9B3FF" opacity="0.60"/>
+    <circle cx="760" cy="112" r="9" fill="#FF85B3" opacity="0.50"/>
+    <circle cx="200" cy="170" r="4" fill="#C9B3FF" opacity="0.55"/>
+    <circle cx="490" cy="15" r="4" fill="#FF85B3" opacity="0.50"/>
+    <circle cx="620" cy="165" r="5" fill="#FFB3D1" opacity="0.60"/>
+
+    <polygon points="155,28 162,48 145,36 170,36 150,48" fill="#FFB3D1" opacity="0.70"/>
+    <polygon points="682,158 689,178 672,166 697,166 677,178" fill="#C9B3FF" opacity="0.60"/>
+    <polygon points="400,183 405,196 393,188 412,188 400,196" fill="#FF85B3" opacity="0.50"/>
+    <polygon points="240,12 245,25 233,17 252,17 240,25" fill="#C9B3FF" opacity="0.55"/>
+    <polygon points="600,8 605,21 593,13 612,13 600,21" fill="#FFB3D1" opacity="0.55"/>
+
+    <rect x="100" y="68" width="660" height="66" rx="14" fill="#FFFFFF" opacity="0.28"/>
+
+    <text x="430" y="96" font-family="'Courier New', Courier, monospace" font-size="38" font-weight="700" fill="#C2185B" text-anchor="middle" letter-spacing="3">ZARMEENA ALI</text>
+    <text x="430" y="118" font-family="'Courier New', Courier, monospace" font-size="12" fill="#9B4D7A" text-anchor="middle" letter-spacing="1">Software Engineer  ✦  Full Stack &amp; AI Systems  ✦  FAST NUCES '26</text>
+    <text x="430" y="148" font-family="'Courier New', Courier, monospace" font-size="11" fill="#AD6E8F" text-anchor="middle">Islamabad, Pakistan</text>
+    <text x="430" y="174" font-family="'Courier New', Courier, monospace" font-size="13" fill="#FF85B3" text-anchor="middle" letter-spacing="6">◈  ◇  ◈  ◇  ◈  ◇  ◈  ◇  ◈</text>
+
+    <path d="M 0 185 Q 215 168 430 185 Q 645 202 860 185 L 860 200 L 0 200 Z" fill="#FFB3D1" opacity="0.38"/>
+    <path d="M 0 192 Q 215 178 430 192 Q 645 206 860 192 L 860 200 L 0 200 Z" fill="#FF85B3" opacity="0.22"/>
+  </g>
+</svg>
