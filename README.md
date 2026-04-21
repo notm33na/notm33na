@@ -241,8 +241,8 @@ AES-256-GCM encryption · ECDH authenticated key exchange · forward secrecy · 
     <rect width="860" height="80" fill="#FFD6E8"/>
     <circle cx="0" cy="0" r="80" fill="#FFB3D1" opacity="0.3"/>
     <circle cx="860" cy="80" r="80" fill="#C9B3FF" opacity="0.3"/>
-    <text x="430" y="36" font-family="monospace" font-size="12" fill="#9B4D7A" text-anchor="middle">made with too much caffeine · FAST NUCES · Islamabad · 2026</text>
-    <text x="430" y="60" font-family="monospace" font-size="14" fill="#FFB3D1" text-anchor="middle">✦ ◈ ✦ ◈ ✦ ◈ ✦ ◈ ✦ ◈ ✦</text>
+    <text x="430" y="36" font-family="monospace" font-size="12" fill="#9B4D7A" text-anchor="middle">✦ Made with too much caffeine · FAST NUCES · Islamabad · 2026 ✦</text>
+    
   </g>
 </svg>
 
