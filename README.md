@@ -1,10 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85B3,C9B3FF&height=180&section=header&text=ZARMEENA%20ALI&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%E2%9C%A6%20Full%20Stack%20%26%20AI%20Systems%20%E2%9C%A6%20Published%20Researcher&descSize=14&descAlignY=62&descColor=FFE0F0" />
+<svg width="100%" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="round"><rect width="860" height="160" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="860" height="160" fill="#FFD6E8"/>
+    <circle cx="820" cy="-20" r="100" fill="#FFB3D1" opacity="0.35"/>
+    <circle cx="40" cy="180" r="80" fill="#C9B3FF" opacity="0.30"/>
+    <circle cx="430" cy="170" r="60" fill="#FFE8F4" opacity="0.40"/>
+    <text x="430" y="72" font-family="monospace" font-size="38" font-weight="700" fill="#D63384" text-anchor="middle">✦ ZARMEENA ALI ✦</text>
+    <text x="430" y="102" font-family="monospace" font-size="13" fill="#9B4D7A" text-anchor="middle">Software Engineer · Full Stack &amp; AI Systems · Published Researcher</text>
+    <text x="430" y="124" font-family="monospace" font-size="12" fill="#C890AA" text-anchor="middle">FAST NUCES '26 · Islamabad, Pakistan</text>
+    <text x="430" y="148" font-family="monospace" font-size="14" fill="#FFB3D1" text-anchor="middle">◈ ◇ ◈ ◇ ◈ ◇ ◈ ◇ ◈</text>
+  </g>
+</svg>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zarmeena--fatima-FF85B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarmeena-fatima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zarmeena--fatima-FF85B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zarmeena-fatima-732570267/)
 [![GitHub](https://img.shields.io/badge/GitHub-notm33na-C9B3FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notm33na)
 [![Email](https://img.shields.io/badge/Email-contact-FFB3D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarmeenafatimaali@gmail.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2603.07500-FFE066?style=for-the-badge&logo=arxiv&logoColor=black)](https://arxiv.org/abs/2603.07500)
@@ -235,7 +249,16 @@ AES-256-GCM encryption · ECDH authenticated key exchange · forward secrecy · 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85B3,C9B3FF&height=100&section=footer" />
+<svg width="100%" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <defs><clipPath id="roundf"><rect width="860" height="80" rx="14"/></clipPath></defs>
+  <g clip-path="url(#roundf)">
+    <rect width="860" height="80" fill="#FFD6E8"/>
+    <circle cx="0" cy="0" r="80" fill="#FFB3D1" opacity="0.3"/>
+    <circle cx="860" cy="80" r="80" fill="#C9B3FF" opacity="0.3"/>
+    <text x="430" y="36" font-family="monospace" font-size="12" fill="#9B4D7A" text-anchor="middle">made with ♦ and too much caffeine · FAST NUCES · Islamabad · 2026</text>
+    <text x="430" y="60" font-family="monospace" font-size="14" fill="#FFB3D1" text-anchor="middle">✦ ◈ ✦ ◈ ✦ ◈ ✦ ◈ ✦ ◈ ✦</text>
+  </g>
+</svg>
 
 *made with ♦ and too much caffeine · FAST NUCES · Islamabad · 2026*
 
