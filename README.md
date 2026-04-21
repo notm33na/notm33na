@@ -1,18 +1,38 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <clipPath id="round"><rect width="860" height="160" rx="18"/></clipPath>
+    <clipPath id="hclip"><rect width="860" height="200" rx="22"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD6E8"/>
+      <stop offset="50%" stop-color="#F5C8F0"/>
+      <stop offset="100%" stop-color="#DDD0FF"/>
+    </linearGradient>
   </defs>
-  <g clip-path="url(#round)">
-    <rect width="860" height="160" fill="#FFD6E8"/>
-    <circle cx="820" cy="-20" r="100" fill="#FFB3D1" opacity="0.35"/>
-    <circle cx="40" cy="180" r="80" fill="#C9B3FF" opacity="0.30"/>
-    <circle cx="430" cy="170" r="60" fill="#FFE8F4" opacity="0.40"/>
-    <text x="430" y="72" font-family="monospace" font-size="38" font-weight="700" fill="#D63384" text-anchor="middle">✦ ZARMEENA ALI ✦</text>
-    <text x="430" y="102" font-family="monospace" font-size="13" fill="#9B4D7A" text-anchor="middle">Software Engineer · Full Stack &amp; AI Systems · Published Researcher</text>
-    <text x="430" y="124" font-family="monospace" font-size="12" fill="#C890AA" text-anchor="middle">FAST NUCES '26 · Islamabad, Pakistan</text>
-    <text x="430" y="148" font-family="monospace" font-size="14" fill="#FFB3D1" text-anchor="middle">◈ ◇ ◈ ◇ ◈ ◇ ◈ ◇ ◈</text>
+  <g clip-path="url(#hclip)">
+    <rect width="860" height="200" fill="url(#bg)"/>
+    <circle cx="780" cy="30" r="90" fill="#FFB3D1" opacity="0.45"/>
+    <circle cx="820" cy="160" r="55" fill="#C9B3FF" opacity="0.35"/>
+    <circle cx="60" cy="180" r="70" fill="#FFB3D1" opacity="0.35"/>
+    <circle cx="20" cy="40" r="45" fill="#C9B3FF" opacity="0.30"/>
+    <circle cx="430" cy="-20" r="60" fill="#FFD6FB" opacity="0.40"/>
+    <circle cx="200" cy="190" r="35" fill="#FFE0F0" opacity="0.50"/>
+    <circle cx="650" cy="195" r="28" fill="#EDE0FF" opacity="0.55"/>
+    <circle cx="130" cy="55" r="8" fill="#FF85B3" opacity="0.7"/>
+    <circle cx="700" cy="40" r="6" fill="#C9B3FF" opacity="0.8"/>
+    <circle cx="350" cy="175" r="5" fill="#FF85B3" opacity="0.6"/>
+    <circle cx="560" cy="20" r="7" fill="#FFB3D1" opacity="0.7"/>
+    <circle cx="90" cy="120" r="5" fill="#C9B3FF" opacity="0.6"/>
+    <circle cx="760" cy="110" r="9" fill="#FF85B3" opacity="0.5"/>
+    <polygon points="155,30 162,50 145,38 170,38 150,50" fill="#FFB3D1" opacity="0.7"/>
+    <polygon points="680,160 687,180 670,168 695,168 675,180" fill="#C9B3FF" opacity="0.6"/>
+    <polygon points="400,185 405,198 393,190 412,190 400,198" fill="#FF85B3" opacity="0.5"/>
+    <rect x="100" y="72" width="660" height="62" rx="14" fill="#FFFFFF" opacity="0.30"/>
+    <text x="430" y="98" font-family="'Courier New', monospace" font-size="36" font-weight="700" fill="#C2185B" text-anchor="middle" letter-spacing="3">ZARMEENA ALI</text>
+    <text x="430" y="120" font-family="'Courier New', monospace" font-size="12" fill="#9B4D7A" text-anchor="middle" letter-spacing="1">Software Engineer  ✦  Full Stack &amp; AI Systems  ✦  FAST NUCES '26</text>
+    <text x="430" y="148" font-family="'Courier New', monospace" font-size="11" fill="#AD6E8F" text-anchor="middle">FAST NUCES  '26  ·  Islamabad, Pakistan</text>
+    <text x="430" y="172" font-family="monospace" font-size="13" fill="#E891BB" text-anchor="middle" letter-spacing="6">◈  ◇  ◈  ◇  ◈  ◇  ◈</text>
+    <path d="M 0 185 Q 215 165 430 185 Q 645 205 860 185 L 860 200 L 0 200 Z" fill="#FFFFFF" opacity="0.20"/>
   </g>
 </svg>
 
@@ -28,7 +48,7 @@
 ![](https://img.shields.io/badge/◈_Full_Stack-FF85B3?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/◈_AI_/_ML-C9B3FF?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/◈_DevOps-B3FFE8?style=flat-square&logoColor=black)
-![](https://img.shields.io/badge/◈_Researcher-FFE066?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/◈_arXiv_author-FFE066?style=flat-square&logoColor=black)
 
 </div>
 
@@ -41,7 +61,7 @@ hey! i'm zarmeena — a final-year SE student who builds things that actually wo
 i've shipped healthcare platforms, financial forecasting tools, and microservices that handle real load.
 
 i write Python + TypeScript for breakfast, deploy on Kubernetes for fun,
-and once published a paper on high-dimensional time series forecasting just to see what would happen.
+and once co-authored a research paper on high-dimensional time series forecasting just to see what would happen.
 
 currently: surviving my FYP and adding too many features to everything.
 ```
